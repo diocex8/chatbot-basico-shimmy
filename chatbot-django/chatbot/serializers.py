@@ -16,3 +16,4 @@ class DocumentoSerializer(ModelSerializer):
     class Meta:
         model = Documento
         fields = '__all__'
+        
